@@ -52,7 +52,7 @@ if ingredients_list:
         st.success('Your Smoothie is ordered!', icon="✅")
         
     st.write(my_insert_stmt)
-    st.stop()
+    st.stop() 
 
 
  
